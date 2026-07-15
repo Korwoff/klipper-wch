@@ -1,3 +1,9 @@
+> 本仓库 Fork 自 [Klipper3d/klipper](https://github.com/Klipper3d/klipper)，新增 WCH CH32V 系列 MCU 后端适配，代码位于 `src/ch32v/`。
+>
+> **适配型号**：CH32V005、CH32V203。
+>
+> **警告**：当前适配尚未完成硬件测试，请勿用于生产环境。
+
 Welcome to the Klipper project!
 
 [![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
